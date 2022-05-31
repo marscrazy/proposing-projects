@@ -37,7 +37,6 @@ FlagAI provides full technical support for the life-circle of large-scale AI mod
 
 Potential usage of https://github.com/onnx/[ONNX], to deploy the model.
 
-Potential usage of https://github.com/onnx/[ONNX], to deploy the model.
 
 === License name
 
@@ -96,7 +95,7 @@ Models remain under their original licence.
 * Yan Zhaodong, yanzhaodong2021@163.com, BAAI, 3+ month
 * Xiang Wen, xw747777271@gmail.com, BAAI, 3+ month
 * Xin Zhaohu, 920232796@qq.com, BAAI intern, 2+ month
- 
+* Guoqiang Wang, 862876363@qq.com, 3+ month
 
 
 
